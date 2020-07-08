@@ -1,3 +1,11 @@
+body {
+    background-color: steelblue;     /* or dodgerblue, steelblue, cornflowerblue */
+}
+
+.centered {
+    text-align: center;
+}
+
 .qsheading {
     font-family: Impact,'Arial Black', sans-serif;
     font-style: italic;
@@ -14,18 +22,20 @@
     background-size: cover; 
 }
 
-body {
-    background-color: steelblue; /* dodgerblue, steelblue, cornflowerblue */
-}
-
-.centered {
-    text-align: center;
+.qsearchfield {
+    background-color: white !important; 
+    color: black !important;
 }
 
 .quotation {
-    padding: 15px 15px;
+    padding: 15px 45px 15px;   /* top, right & left, bottom */
     background-color: white;
     font-size: 1.75em;
+}
+
+.attribution {
+    font-size: 1.25em;
+    font-style: italic; 
 }
 
 .category {
@@ -35,12 +45,6 @@ body {
 }
 
 
-
-.attribution {
-    font-size: 1.25em;
-    font-style: italic; 
-}
-
 .about_text {
     font-size: 1.25em; 
 }
@@ -49,11 +53,9 @@ body {
      color: darkblue;
 }
 
-
 .footer_link {
     color: goldenrod;
 }
-
 
 .btn_small {
     line-height: 22px;
@@ -69,9 +71,4 @@ body {
 
 .collapsible-body {
     background-color: whitesmoke;
-}
-
-.qsearchfield {
-    background-color: white !important; 
-    color: black !important;
 }
