@@ -28,7 +28,7 @@ body {
 }
 
 .quotation {
-    padding: 15px 45px 15px;   /* top, right & left, bottom */
+    padding: 100px 75px 100px;   /* top, right & left, bottom */
     background-color: white;
     font-size: 1.75em;
 }
@@ -67,6 +67,8 @@ body {
 
 .collapsible-header {
     background-color: whitesmoke;
+    padding-bottom: 0px; 
+    margin-bottom: 0px;
 }
 
 .collapsible-body {
