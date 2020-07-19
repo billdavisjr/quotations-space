@@ -1,17 +1,16 @@
-#
-# Full Stack Development Milestone Project #3
-
-Student / Developer:
-## Bill Davis
-- bill.davis@gmail.com
-- +1 (515) 999-0622
-
-#
 # Site name: "Quotations.Space!"
+
+THIS IS *NOT* THE CODE INSTITUTE PROJECT SUBMISSION!  That's in another repository.
 
 ## WEB SITE ADDRESS:
 
 - https://wbd-fsd-project3.herokuapp.com/
+
+
+## Bill Davis
+- bill.davis@gmail.com
+- +1 (515) 999-0622
+
 
 ## GIT REPOSITORIES
 
