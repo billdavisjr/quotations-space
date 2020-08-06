@@ -1,0 +1,4 @@
+_id,name,first_name,middle_name.middle_initial,last_name,birthday,born,died,vocation,wikicommons_photo,wikicommons_attribution,wikipedia_bio,website
+ObjectId(5ec999d49c2e60af5e484ce2),Robert A. Heinlein,Robert,,Heinlein,07/07/1907,1907,1988,author,ttps://upload.wikimedia.org/wikipedia/commons/b/bf/Heinlein-face.jpg,commons.wikimedia.org,https://en.wikipedia.org/wiki/Robert_A._Heinlein,https://www.heinleinsociety.org/
+ObjectId(5f00d240c2873a66c6cc8e7a),Carl Sagan,Carl,,Sagan,,1934,1966,"scientist, author, educator",https://upload.wikimedia.org/wikipedia/commons/b/be/Carl_Sagan_Planetary_Society.JPG,,,http://carlsagan.com/
+ObjectId(5f00dfb5c2873a66c6cc8e7b),David Gerrold,David,,Gerrold,01/24/1944,,,author,,,,http://gerrold.com/

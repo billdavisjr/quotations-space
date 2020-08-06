@@ -1,0 +1,9 @@
+_id,category_name,quotation_text,person,source,date_said,stars_rating,is_favorite
+ObjectId(5f072fb867acb0dc0add49f8),Facts,"Shun wishful thinking, ignore divine revelation, forget what “the stars foretell,” avoid opinion, care not what the neighbors think, never mind the unguessable “verdict of history” – what are the facts, and to how many decimal places? You pilot always into an unknown future; facts are your single clue. Get the facts!",Robert A. Heinlein,,,5,on
+ObjectId(5f074ec6b79795b5413e17c4),Facts,"Be a loner. That gives you time to wonder, to search for the truth. Have holy curiosity. Make your life worth living.",Albert Einstein,,,3,
+ObjectId(5f08c18f8b332165c3eaaabf),Pens,"Proper writing ink comes in a bottle, can be swirled like brandy in a glass, and smells like apple blossom after rain.",Fennel Hudson,,,4,
+ObjectId(5f09ecab8bd305c26f4831a9),Knowledge,Reputation is what other people know about you. Honor is what you know about yourself.,Lois McMaster Bujold,A Civil Campaign,,4,
+ObjectId(5f0a062dfcf42c733126fd42),,"Sorrow prepares you for joy. It violently sweeps everything out of your house, so that new joy can find space to enter. It shakes the yellow leaves from the bough of your heart, so that fresh, green leaves can grow in their place. It pulls up the rotten roots, so that new roots hidden beneath have room to grow.",Rumi,,,4.5,on
+ObjectId(5f0a134d335cf0358f1e2309),Pens,The pen is the tongue of the mind.,Horace,,,5,on
+ObjectId(5f0a8a4fb75c8d24da828e4a),Future,"It’s impossible to enter the future and fear diversity at the same time,",Gene Roddenberry,,,5,on
+ObjectId(5f0b10a55516436d47ce8266),Power,"We have, I fear, confused power with greatness.",Stewart Udall,,,4,on

@@ -1,0 +1,17 @@
+_id,category_name
+ObjectId(5f072f8367acb0dc0add49f7),Facts
+ObjectId(5f074edab79795b5413e17c6),Knowledge
+ObjectId(5f074ee8b79795b5413e17c7),Action
+ObjectId(5f074ef2b79795b5413e17c8),Compassion
+ObjectId(5f074efdb79795b5413e17c9),Freedom
+ObjectId(5f074f06b79795b5413e17ca),Future
+ObjectId(5f074f0fb79795b5413e17cb),Intelligence
+ObjectId(5f074f18b79795b5413e17cc),Justice
+ObjectId(5f074f30b79795b5413e17ce),Pens
+ObjectId(5f074f39b79795b5413e17cf),Power
+ObjectId(5f074f49b79795b5413e17d0),Programming
+ObjectId(5f074f52b79795b5413e17d1),Progress
+ObjectId(5f074f5eb79795b5413e17d2),Strength
+ObjectId(5f074f69b79795b5413e17d3),Time
+ObjectId(5f074f72b79795b5413e17d4),Truth
+ObjectId(5f074f7cb79795b5413e17d5),Wisdom

@@ -5,7 +5,7 @@ from bson.objectid import ObjectId
 
 
 app = Flask(__name__)
-app.config["MONGO_DBNAME"] = 'quotations_space'
+app.config["MONGO_DBNAME"] = os.getenv("QS_MONGO_DBNAME")
 app.config["MONGO_URI"] = os.getenv('QS_MONGO_URI')
 
 

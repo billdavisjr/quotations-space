@@ -1,33 +1,25 @@
 # Site name: "Quotations.Space!"
 
-THIS IS *NOT* THE CODE INSTITUTE PROJECT SUBMISSION!  That's in another repository.
+# IMPORTANT NOTE:  THIS IS *NOT* THE CODE INSTITUTE PROJECT SUBMISSION!  That's in another repository and site to be found at:
 
-## WEB SITE ADDRESS:
+    - https://wbd-fsd-project3.herokuapp.com/
+    
+    - https://github.com/billdavisjr/wbd_fsd_project3.git
 
-- https://wbd-fsd-project3.herokuapp.com/
+    - https://git.heroku.com/wbd-fsd-project3.git
 
+## THIS REPO IS THE CONTINUATION OF THAT CLASS PROJECT
 
-## Bill Davis
+- http://quotations-space.herokuapp.com/search_quotes
+
+- https://github.com/billdavisjr/quotations-space
+
+## AUTHOR CONTACT INFO
+
+Bill Davis
 - bill.davis@gmail.com
 - +1 (515) 999-0622
 
-
-## GIT REPOSITORIES
-
-- https://github.com/billdavisjr/wbd_fsd_project3.git
-
-- https://git.heroku.com/wbd-fsd-project3.git
-
-NOTE: The issues (bugs, features) I had compiled in my original repository on GitHub for this project are not part of a Git repo 
-and so did not copy over when I cloned the repo for submission of this project to Code Institute.  
-
-I cloned it before submitting it because I plan to keep working on the project outside the scope of the course and we're not 
-supposed to change the repo after we submit it.  If you wish to see the issue database from the original repo, let me know by 
-email and I will provide the URL.  I only mention this because some of the branches, done for working on bugs, are titled "issNN" 
-(where NN is the number of the issue in the GitHub issues database.) This naming comes from the book provided on the Git web site 
-and I found this method useful and have started using it to work on bugs and enhancements.
-
-#
 # PROJECT INTRODUCTION
 
 ## Reasoning for the project
